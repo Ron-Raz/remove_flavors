@@ -9,7 +9,7 @@ pip install KalturaApiClient
 
 # Usage
 ```
-python3 <pId> <userId> <adminSecret> <flavorPatternToDelete> <entriesFileName> {ERASE|logOnly}
+python3 remove_flavors <pId> <userId> <adminSecret> <flavorPatternToDelete> <entriesFileName> {ERASE|logOnly}
 ```
 | Parameter        | Description             | Example |
 | ---------------- |------------------------ | ------- |
